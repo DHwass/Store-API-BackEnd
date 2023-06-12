@@ -1,0 +1,3 @@
+This project is a backend application built with Node.js, Express.js, and MongoDB. It provides a RESTful API for product management. The API allows users to retrieve products with flexibility by using different query parameters. It enables querying products based on specific criteria such as company, featured status, name, sorting options, fields to include, pagination, and numeric filters.
+
+By utilizing this API, developers can easily integrate product management functionality into their applications. The project leverages the power of Express.js to handle incoming requests, while MongoDB serves as the database for storing and retrieving product data. The API design follows REST principles, making it intuitive and easy to work with.
